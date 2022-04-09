@@ -1,0 +1,25 @@
+POST http://localhost:10101/api/marquetry/
+Content-Type: application/json
+
+{
+    "name": "Maria Paula Reyes",
+    "phone": "3207509544"
+}
+
+###
+POST http://localhost:10101/api/marquetry/picture
+Content-Type: application/json
+
+{ 
+    "type": "foto",
+    "molding": "21313",
+    "glass": "antireflectivo",
+    "color": "",
+    "margin": 3.5,
+    "amount": 1,
+    "measure": { "height": 20, "width": 10 },
+    "clientId": "62412b77da7064e9fd7d4f0c",
+    "price": 8900,
+    "payment": 0,
+    "note": "holiii"    
+}

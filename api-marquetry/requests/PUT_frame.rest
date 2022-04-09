@@ -1,0 +1,9 @@
+PUT http://localhost:3000/api/marquetry/62203da323bb4bdcf40d4f29
+Content-Type: application/json
+
+{
+    "price": 64000,
+    "payment": 64000,
+    "name": "Fernanda Juan",
+    "phone": 3211111
+}

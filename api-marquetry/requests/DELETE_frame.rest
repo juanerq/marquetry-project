@@ -1,0 +1,1 @@
+DELETE  http://localhost:10101/api/marquetry/all

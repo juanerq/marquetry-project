@@ -1,0 +1,23 @@
+{
+  code: 1,
+  name: 'Juan Esteban',
+  phone: 3207509544,
+  price: 35000,
+  payment: 0,
+  photo: 'Not photo',
+  note: '',
+  date: new Date(),
+  picture: [
+    {
+      type: 'afiche',
+      molding: ['refencia', 'aluminio'],
+      glass: ['normal', 'antireflectivo', 'espejo'],
+      measure: { height: 39, width: 49 },
+      color: ['negro', 'cafe', 'dorado'], // - si es aluminio
+      margin: 3.5, // -
+      amount: 1 // - 1
+    }
+  ]
+}
+
+// Aluminio -> negro, cafe, dorado

@@ -1,0 +1,11 @@
+GET http://localhost:10101/api/marquetry/search?id=62412aaa85b08e613e13732a
+
+###
+GET http://localhost:10101/api/marquetry/search?q=mariapaulareyes
+
+###
+GET http://localhost:10101/api/marquetry/search?p=3207
+
+###
+GET http://localhost:10101/api/marquetry
+
